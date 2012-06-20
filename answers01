@@ -47,5 +47,45 @@ What are the outputs of each of the following equations?
 9. 1/3.................0
 10. 1/3.0..............0.33
 
+Exercise 4 user Input
+>>> 
+What is your Firsname:Kay
+What is your Lastname:Debrah
+Month of Birth:12
+Day of Birth:12
+Year of Birth:1988
+Kay Debrah was born on 12 12,1988
+>>> 
+
+Exercise 5 Zeller
+>>> 
+What is your Firsname:Kay
+What is your Lastname:Debrah
+Month of Birth:12
+Day of Birth:12
+Year of Birth:1988
+Kay Debrah was born on 12 12,1988
+>>> 
+What is your Firsname:Kay
+What is your Lastname:Debrah
+March=1
+April=2
+May=3
+June=4
+July=5
+August=6
+September=7
+October=8
+November=9
+December=10
+January=11
+Febraury=12
+
+Month of Birth:4
+Day of Birth:13
+Year of Century:88
+Century:19
+Kay Debrah was born on Monday 4 / 13 / 19 88
+>>> 
 
 
