@@ -1,0 +1,36 @@
+Exercise 1
+
+##Variable names
+1. x is valid
+2. 56thnumber is not valid
+3. length is valid
+4. !Tayo! is invalid
+5. NUMBER is valid
+6. Android_phone1 is valid
+7. this variable is invalid
+
+##Types
+1. Boolean
+2. Float
+3. String
+4. Integer
+5. String
+6. Integer
+7. Error
+8. Boolean
+9. String
+10.String
+
+Exercise 2
+a = False
+b = True
+c = False
+
+1. b and...............................False
+2. b or c..............................True
+3. not a and b.........................True
+4. (a and b) or not c..................True
+5. not b and not (a or c)..............False
+6. not ((not b or not a) and c ) or a..True
+
+
